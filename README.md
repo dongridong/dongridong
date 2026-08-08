@@ -56,14 +56,23 @@ Fifth year building this. C++ where it has to meet a deadline, Python where it h
 
 | | |
 | :--- | :--- |
-| **Galaxy for Teleoperation** <sub>`private`</sub> | Android XR app streaming passthrough, hand tracking and controller input to RB-Y1 as NDJSON pose frames |
-| **Meta for Teleoperation** <sub>`private`</sub> | Meta Quest counterpart on the same pose schema, so either headset drives the same receiver |
+| [**Galaxy for Teleoperation**](https://github.com/dongridong/Galaxy_for_teleoperation) | Android XR app streaming passthrough, hand tracking and controller input to RB-Y1 as NDJSON pose frames |
+| [**Meta for Teleoperation**](https://github.com/dongridong/Meta_for_teleoperation) | Meta Quest counterpart on the same pose schema, so either headset drives the same receiver |
 | [**Teleoperation with RB-Y1**](https://github.com/dongridong/Teleopeartion_with_RBY1) | Receiver and control side of the XR teleoperation loop |
 | [**T5-M-Mb**](https://github.com/dongridong/T5-M-Mb) | MJCF and URDF models for the T5 and M / Mb platforms |
 
 <!-- ROW TEMPLATE, copy above this line
 | [**Name**](https://github.com/dongridong/REPO) | One line on what it does |
 -->
+
+<br>
+
+## Open Source
+
+[![MuJoCo Menagerie](https://img.shields.io/badge/MuJoCo%20Menagerie-Google%20DeepMind-4B6BFB?style=flat-square)](https://github.com/google-deepmind/mujoco_menagerie/tree/main/rainbow_robotics_rby1)
+
+Author of the **RB-Y1** model in Google DeepMind's reference collection of high-quality robot models — A and M variants, v1.2 and v1.3, with and without grippers.
+&nbsp;<sub>[#134](https://github.com/google-deepmind/mujoco_menagerie/pull/134) &nbsp;·&nbsp; [#238](https://github.com/google-deepmind/mujoco_menagerie/pull/238)</sub>
 
 <br>
 
